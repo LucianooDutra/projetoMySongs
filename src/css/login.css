@@ -43,7 +43,7 @@
   border: none;
   z-index: 1;
   align-items: baseline;
-  opacity: 88%;
+  /* opacity: 88%; */
 }
 
 .divLogin button:disabled {
