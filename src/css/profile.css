@@ -20,7 +20,7 @@
   background-size: cover;
   padding-top: 30px;
   position: fixed;
-  opacity: 90%;
+  /* opacity: 90%; */
 }
 
 .page-profile h2 {
@@ -45,7 +45,7 @@
   align-items: center;
   background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgb(88, 18, 173) 0%, rgb(33, 109, 184) 90% );
   border-radius: 15px;
-  opacity: 95%;
+  /* opacity: 95%; */
 }
 
 .dadosProfileInter h3, h4 {

@@ -29,7 +29,7 @@
 
 .divPageSearch background-image {
   background-image: url("../images/gear_beats_MRJA2-SoloPro-RGB-3QL.webp");
-  opacity: 85%;
+  /* opacity: 85%; */
 }
 
 .divPageSearch h2 {
@@ -66,7 +66,7 @@
   border-radius: 10px;
   z-index: 1;
   align-items: baseline;
-  opacity: 88%;
+  /* opacity: 88%; */
 }
 
 .divPageSearchLabel input{
@@ -104,7 +104,7 @@
   align-items: center;
   background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgb(88, 18, 173) 0%, rgb(33, 109, 184) 90% );
   border-radius: 15px;
-  opacity: 85%;
+  /* opacity: 85%; */
 }
 
 ::-webkit-scrollbar {

@@ -20,7 +20,7 @@
   background-size: cover;
   padding-top: 30px;
   position: fixed;
-  opacity: 90%;
+  /* opacity: 90%; */
 }
 
 .notFound h1 {
