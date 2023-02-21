@@ -57,6 +57,12 @@ Para executar digite o seguinte comando no terminal a partir da raiz do projeto:
   ```json
     npm start
   ```
+  
+  ou
+  
+Acessar pelo link:
+
+	https://projeto-my-songs-lsv3f3knt-lucianoodutra.vercel.app/
 
 
 </details>
